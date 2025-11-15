@@ -1,3 +1,3 @@
 # FinalProject
 
-Developed with Unreal Engine 5
+Разработан на Unreal Engine 5.6.1
